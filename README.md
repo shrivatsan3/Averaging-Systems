@@ -1,2 +1,2 @@
 # Averaging-Systems
-a paper on Averaging systems with application to opinion dynamics
+a paper on Averaging systems with application to opinion dynamics. Lucid explanation of Perron Frobenius theorem, strongly connected graphs, irreducible, primitive and row stochastic matrices. Convergence results were verified by simulation runs of different opinion dynamics models such as French Harary DeGroot and Friedkin Johnsen model. Theory vastly applies to robotics and mutli-agent systems.
